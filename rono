@@ -1,1 +1,31 @@
+question 1
+1.create two variables , my age and humanDogRation
+2. multiply the both together and store the result in mydogage
+3.log mydogage to the console
 
+ans - let myage =17
+let humandogratio=7
+
+let mydogage = myage * humandogratio
+consule.log(mydogage)
+
+question2 
+count people
+
+ans- let count=5
+console.log(count)
+
+question3  create a variable , bonuspoints. initialize it as 50 . increase it to 100
+descrease it down to 25 and then finally increse it to 70
+console.log the value after each step
+ans- let bonuspoints =50
+console.log(bonuspoints)
+
+bonuspoints = bonuspoints + 50 
+console.log(bonuspoints)
+
+bonuspoints = bonuspoints - 75 
+console.log(bonuspoints)
+
+bonuspoints= bonuspoints + 45
+console.log(bonuspoints)
