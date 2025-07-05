@@ -1,0 +1,25 @@
+Question:1
+Write a program to print "Hello, world!" in the console.
+
+Solution
+console.log("Hello, world!");
+
+Question:
+Write a function that takes two numbers and returns their sum.
+
+Solution:
+function addNumbers(a, b) {
+  return a + b;
+}
+
+console.log(addNumbers(3, 5)); // Output: 8
+
+
+Question:
+Store the numbers 5 and 10 in two variables, and print their sum.
+
+Solution:
+let a = 5;
+let b = 10;
+let sum = a + b;
+console.log(sum); // Output: 15
