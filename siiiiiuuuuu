@@ -1,0 +1,33 @@
+Problem 1: Add Two Numbers
+🧾 Task: Write a function that takes two numbers and returns their sum.
+ans----function addNumbers(a, b) {
+  return a + b;
+}
+// Example:
+console.log(addNumbers(5, 3)); // Output: 8
+
+🔄 Problem 2: Check Even or Odd
+🧾 Task: Write a function to check whether a number is even or odd.
+ans--
+function isEvenOrOdd(num) {
+  if (num % 2 === 0) {
+    return "Even";
+  } else {
+    return "Odd";
+  }
+}
+
+// Example:
+console.log(isEvenOrOdd(4)); // Output: Even
+console.log(isEvenOrOdd(7)); // Output: Odd
+
+🔠 Problem 3: Convert String to Uppercase
+🧾 Task: Write a function that takes a string and returns it in uppercase.
+
+ans--
+function toUpperCase(str) {
+  return str.toUpperCase();
+}
+
+// Example:
+console.log(toUpperCase("hello")); // Output: HELLO
