@@ -1,0 +1,18 @@
+Question 1: How do you declare a variable in JavaScript?
+ans--
+let name = "John";
+
+
+✅ Question 2: What will this print?
+console.log(5 + 3);
+Answer:
+8
+
+ Question 3: How do you write a simple if condition?
+let age = 18;
+
+if (age >= 18) {
+  console.log("You are an adult");
+}
+ans--
+You are an adult
