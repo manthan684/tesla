@@ -1,0 +1,24 @@
+Question 1: What will this code output?
+let x = 5;
+let y = 3;
+console.log(x + y);
+Answer:
+8
+
+Question 2: What is the output of this code?
+let name = "John";
+console.log("Hello " + name);
+Answer:
+nginx
+Hello John
+ The + operator is used here to join strings.
+
+ Question 3: What does this function do?
+
+function double(num) {
+  return num * 2;
+}
+
+console.log(double(4));
+✅ Answer:
+8
